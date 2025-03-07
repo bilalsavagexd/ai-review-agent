@@ -2,7 +2,7 @@
 
 
 ## Overview
-AI-Powered Pull Request Review Agent is a GitHub-integrated system that automates and streamlines the code review process using Large Language Models (LLMs). By leveraging AI, this tool:
+AI-Powered Pull Request Review Agent is a GitHub-integrated system that automates and streamlines the code review process using Large Language Models (LLMs). By leveraging AI techniques, this tool:
 
 - Enhances code quality
 - Identifies security vulnerabilities
