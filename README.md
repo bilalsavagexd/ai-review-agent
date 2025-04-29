@@ -11,7 +11,7 @@ AI-Powered Pull Request Review Agent is a GitHub-integrated system that automate
 Stay ahead with AI-powered automation and improve your development workflow effortlessly!
 ## Architecture Diagram
 ![Alt text](Week-3/architecture-diagram.png)
-![Alt text](Week-2/Model_Diagram.png)
+![Alt text](Week-2/ModelDiagram.png)
 
 
 
