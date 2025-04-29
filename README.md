@@ -13,7 +13,7 @@ Stay ahead with AI-powered automation and improve your development workflow effo
 ![Alt text](Week-3/architecture-diagram.png)
 
 
-## Setup
+## Setup Instructions:
 
 1. Download NGROK [here](https://download.ngrok.com/). This will be used to create a secure tunnel to your local server.
 
