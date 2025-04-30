@@ -9,6 +9,12 @@ console.log("Even:"+i)
 }else{
 console.log("Odd:"+i)
 }
+
+
+
+console.log("hwlwowowo")
+
+  
 }
 }else{
 while(x>0){
@@ -16,12 +22,23 @@ console.log("Counting down:"+x)
 x--
 }
 }
+
+
+
+
+  
 }else{
 console.log("Zero or negative")
 }
 var result=x+b+a+c
 return result
 }
+
+
+
+
+
+
 DoSomething()
 DoSomething("hello")
 DoSomething(20)
