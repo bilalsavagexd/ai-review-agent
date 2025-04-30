@@ -2,4 +2,4 @@ console.log("Hello, world!");
 
 
 
-console.log("BC");
+console.log("im tired of this");
